@@ -26,6 +26,8 @@ h1,h3,p,li{
 .desc{
     display: flex;
     flex-direction: column;
+    width: 80vw;
+
 }
 .icon{
     display: flex;
